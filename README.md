@@ -1,8 +1,9 @@
-# Revenue and Customer Performance Dashboard using MySQL and Excel (Sakila Database)
+# 🍿Revenue and Customer Performance Dashboard using MySQL and Excel (Sakila Database)
+This project presentsa static executive dashboard built in Excel using data extracted from the Sakila database via MySQL queries.
 
-This project presents a static executive dashboard built in Excel using data extracted from the Sakila database via MySQL queries.
+<img width="1920" height="807" alt="Sakila Project Banner " src="https://github.com/user-attachments/assets/67f8f60f-aad7-49ed-aca3-72db1cc00f5d" />
 
-### Background
+## 📌Background
 Sakila represents a fictional DVD rental company that operates multiple stores and offers a wide variety of films in different genres. The company wants to better understand:
 
 - Which film categories generate the most revenue
@@ -12,7 +13,7 @@ Sakila represents a fictional DVD rental company that operates multiple stores a
 
 The management team asked the Data Analyst to explore the database and provide actionable insights that could help improve business decisions, marketing strategy, and inventory management.
 
-## Tools Used
+## 🛠Tools Used
  SQL (MySQL , Sakila Database) :
 - SQL joins
 - Aggregations (SUM, COUNT, AVG)
@@ -23,30 +24,31 @@ The management team asked the Data Analyst to explore the database and provide a
 Microsoft Excel :
 - Executive Dashboard & Visualization
 
-## Key KPIs
+## 📊Key KPIs
 - Total Revenue
 - Total Rentals
 - Average Revenue per Customer
 - Average Rental Duration
 - Active vs Inactive Customers
 
-## Key Insights
+## 🔍Key Insights
 - Revenue is strongly correlated with the number of customers per country.
 - Customer value is evenly distributed across the customer base.
 - Movie rentals show balanced demand with no extreme concentration.
 - The business model appears diversified and resilient.
 
-## Business Recommendations
+## 🧠Business Recommendations
 - Focus growth initiatives on countries with high customer volumes, as customer count strongly correlates with revenue.
 - Maintain broad-based customer strategies, as customer value is evenly distributed.
 - Continue supporting a diverse film catalog due to balanced rental demand.
 - Leverage diversified revenue distribution to reduce business risk.
 - Explore reactivation strategies for inactive customers to drive incremental growth.
 
-## Data Source
+## 📁Data Source
 This project uses the **Sakila sample database** as a case study to demonstrate SQL data extraction and Excel-based performance reporting.
 
 The database contains:
+
 
 - `film` : Film details (title, rating, length, etc.)
 - `category` & `film_category` : Film genres
@@ -59,6 +61,9 @@ The database contains:
 
 *We assume the amount from the payments table is measured in US Dollars ($)
 
-## Dashboard Preview
-![Alt Text]("C:\Users\giann\OneDrive\Υπολογιστής\Projects\Sakila Project\Sakila-MySQL-Excel-Dashboard\Screenshots\Sakila Excel  Dashboard Screenshot.png")
+## 📈Dashboard Preview
 
+<img width="1897" height="799" alt="Sakila Excel  Dashboard Screenshot" src="https://github.com/user-attachments/assets/2e1d9a98-8010-40c4-9ebf-5f98736da128" />
+
+<img width="1920" height="1032" alt="Sakila Project Queries Screenshot 1" src="https://github.com/user-attachments/assets/cb082ddc-cf96-4a37-8327-9ce8819ec4b1" />
+<img width="1920" height="1032" alt="Sakila Project Queries Screenshot 2" src="https://github.com/user-attachments/assets/e5fdfb63-9f61-4e6a-b8c3-a35fd4c98e85" />
