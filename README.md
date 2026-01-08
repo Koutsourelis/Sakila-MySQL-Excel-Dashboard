@@ -65,5 +65,8 @@ The database contains:
 
 <img width="1897" height="799" alt="Sakila Excel  Dashboard Screenshot" src="https://github.com/user-attachments/assets/2e1d9a98-8010-40c4-9ebf-5f98736da128" />
 
-<img width="1920" height="1032" alt="Sakila Project Queries Screenshot 1" src="https://github.com/user-attachments/assets/cb082ddc-cf96-4a37-8327-9ce8819ec4b1" />
-<img width="1920" height="1032" alt="Sakila Project Queries Screenshot 2" src="https://github.com/user-attachments/assets/e5fdfb63-9f61-4e6a-b8c3-a35fd4c98e85" />
+<img width="1920" height="1032" alt="Sakila Project Queries Screenshot 1" src="https://github.com/user-attachments/assets/7031bce9-087d-4b29-b2e6-5ef18e52355b" />
+<img width="1920" height="1032" alt="Sakila Project Queries Screenshot 2" src="https://github.com/user-attachments/assets/70c7dcbd-5fe1-4e7f-ba84-8efa71599f17" />
+<img width="1920" height="1032" alt="Sakila Project Queries Screenshot 3" src="https://github.com/user-attachments/assets/4958c91c-2b27-4f47-9bfa-768f2ae61080" />
+<img width="1920" height="1032" alt="Sakila Project Queries Screenshot 4" src="https://github.com/user-attachments/assets/f58abdf0-9ead-4baa-99f6-95a2ccd74276" />
+
